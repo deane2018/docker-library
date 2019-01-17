@@ -1,2 +1,2 @@
 FROM gcr.io/google-containers/defaultbackend-amd64:1.5
-MAINTAINER deane <deane.wzq@gmail.com>
+MAINTAINER deanelyy <deane.wzq@gmail.com>
